@@ -21,8 +21,9 @@ $ python warframe_crew_seed_finder.py
 ```
 
 ## Notes
-- This script does not find bonuses but you can set the stats as you wish but you might need to look around a bit more for something like +25% speed for Vidar
-- Made for 7/19/26 build of SpaceNinjaServer
+- This script does not find bonuses but you can set the stats as you wish but you might need to look around a bit more for something like +25% speed for Vidar.
+- Made for 7/19/26 build of SpaceNinjaServer.
+- Seed only controls the stats, bonus and name, a Red Veil crew member will always be one unless changed.
 
 ## Extra
 - https://wiki.warframe.com/w/Railjack/Crew
