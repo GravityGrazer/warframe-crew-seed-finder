@@ -34,6 +34,7 @@ Enter your account ID and enter desired crew member stats.
 - Made for 7/19/26 build of SpaceNinjaServer.
 - Seed only controls the stats, bonus and name, a Red Veil crew member will always be one unless changed.
 - Pro-tip, you can use /sync in Warframe to sync the database after you update it without having to reload your game / data.
+- If there is any details I got wrong please lemme know.
 
 ## Extra
 - https://wiki.warframe.com/w/Railjack/Crew
